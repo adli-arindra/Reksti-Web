@@ -28,7 +28,7 @@ export default function AboutPage() {
             role: "18222069",
             bio: "",
             image: null, // placeholder for actual image
-            linkedin: "#"
+            linkedin: "https://www.linkedin.com/in/rafidhiyaulh/"
         },
         {
             name: "M. Adli Ariandra",
