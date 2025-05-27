@@ -3,37 +3,37 @@ import Link from "next/link";
 export default function AboutPage() {
     const team = [
         {
-            name: "Dr. Sarah Chen",
-            role: "Chief Executive Officer",
-            bio: "Former Google AI researcher with 15+ years in EdTech. PhD in Computer Vision from MIT.",
+            name: "Givari Al Fachri",
+            role: "18222045",
+            bio: "",
             image: null, // placeholder for actual image
             linkedin: "#"
         },
         {
-            name: "Marcus Rodriguez",
-            role: "Chief Technology Officer",
-            bio: "Ex-Microsoft architect specializing in scalable systems. Built attendance solutions for 1M+ users.",
+            name: "Winata Tristan",
+            role: "18222061",
+            bio: "",
             image: null, // placeholder for actual image
             linkedin: "#"
         },
         {
-            name: "Dr. Emily Watson",
-            role: "Head of AI Research",
-            bio: "AI/ML expert from Stanford. Published 50+ papers on facial recognition and biometric security.",
+            name: "M. Rafly",
+            role: "18222067",
+            bio: "",
             image: null, // placeholder for actual image
             linkedin: "#"
         },
         {
-            name: "James Kim",
-            role: "Head of Product",
-            bio: "Former Zoom product lead. Designed user experiences for millions of students worldwide.",
+            name: "M. Rafi Dhiyaulhaq",
+            role: "18222069",
+            bio: "",
             image: null, // placeholder for actual image
             linkedin: "#"
         },
         {
-            name: "Alex Thompson",
-            role: "Head of Security",
-            bio: "Cybersecurity expert with 12+ years protecting educational data. Former NSA security analyst.",
+            name: "M. Adli Ariandra",
+            role: "18222089",
+            bio: "",
             image: null, // placeholder for actual image
             linkedin: "#"
         }
