@@ -6,14 +6,14 @@ export default function AboutPage() {
             name: "Givari Al Fachri",
             role: "18222045",
             bio: "",
-            image: null, // placeholder for actual image
+            image: "/images/agif.png", // placeholder for actual image
             linkedin: "https://www.linkedin.com/in/givari-al-fachri-34965b262/"
         },
         {
             name: "Winata Tristan",
             role: "18222061",
             bio: "",
-            image: null, // placeholder for actual image
+            image: "/images/winata.png", // placeholder for actual image
             linkedin: "https://www.linkedin.com/in/winata-tristan-533895214/"
         },
         {
@@ -27,7 +27,7 @@ export default function AboutPage() {
             name: "M. Rafi Dhiyaulhaq",
             role: "18222069",
             bio: "",
-            image: null, // placeholder for actual image
+            image: "/images/rafi.png", // placeholder for actual image
             linkedin: "https://www.linkedin.com/in/rafidhiyaulh/"
         },
         {
