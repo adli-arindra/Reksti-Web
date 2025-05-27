@@ -7,21 +7,21 @@ export default function AboutPage() {
             role: "18222045",
             bio: "",
             image: null, // placeholder for actual image
-            linkedin: "#"
+            linkedin: "https://www.linkedin.com/in/givari-al-fachri-34965b262/"
         },
         {
             name: "Winata Tristan",
             role: "18222061",
             bio: "",
             image: null, // placeholder for actual image
-            linkedin: "#"
+            linkedin: "https://www.linkedin.com/in/winata-tristan-533895214/"
         },
         {
             name: "M. Rafly",
             role: "18222067",
             bio: "",
-            image: null, // placeholder for actual image
-            linkedin: "#"
+            image: "/images/rafly.png", // placeholder for actual image
+            linkedin: "https://www.linkedin.com/in/muhammad-rafly-05ba3a255/"
         },
         {
             name: "M. Rafi Dhiyaulhaq",
@@ -34,8 +34,8 @@ export default function AboutPage() {
             name: "M. Adli Ariandra",
             role: "18222089",
             bio: "",
-            image: null, // placeholder for actual image
-            linkedin: "#"
+            image: "/images/adli.png", // placeholder for actual image
+            linkedin: "https://www.linkedin.com/in/adliarindra/"
         }
     ];
 
